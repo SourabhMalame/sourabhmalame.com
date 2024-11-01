@@ -32,6 +32,9 @@ const Products = () => {
                   </>
                 ))}
               </div>
+              <div className="btndiv">
+                <button>Visite</button>
+              </div>
             </div>
           ))}
         </div>

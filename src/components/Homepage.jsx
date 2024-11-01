@@ -21,6 +21,7 @@ const Homepage = () => {
           <div className="img-div">
             <img src={myimg} alt="Sourabh Malame" />
           </div>
+          <div className="basic-info"></div>
           <h1>Sourabh Malame</h1>
 
           <div
@@ -65,10 +66,7 @@ const Homepage = () => {
             />
           </div>
 
-          <p>
-            2+ years Experince in Teaching and Developwmnt with experties in
-            search engine optimization for google
-          </p>
+          <p>Web Developer And Black Hat SEO Expert</p>
           <div className="btn-div">
             <button>Download Resume</button>
           </div>

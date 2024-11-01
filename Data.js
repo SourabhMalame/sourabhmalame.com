@@ -1,7 +1,7 @@
 const data = [
   {
     "projectName": "Portfolio Website",
-    "projectStack": ["HTML", "CSS", "JavaScript", "React"],
+    "projectStack": ["ReactJS", "CSS"],
     "description": "A personal portfolio website to showcase my projects and skills.",
     "duration": "3 months"
   },
